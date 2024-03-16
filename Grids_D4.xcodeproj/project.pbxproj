@@ -11,6 +11,7 @@
 		2EF3B84C2BA5666600AB9A22 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF3B84B2BA5666600AB9A22 /* ContentView.swift */; };
 		2EF3B84E2BA5666700AB9A22 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EF3B84D2BA5666700AB9A22 /* Assets.xcassets */; };
 		2EF3B8512BA5666700AB9A22 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EF3B8502BA5666700AB9A22 /* Preview Assets.xcassets */; };
+		2EF3B8582BA5688600AB9A22 /* PhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EF3B8572BA5688600AB9A22 /* PhotoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2EF3B84B2BA5666600AB9A22 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2EF3B84D2BA5666700AB9A22 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2EF3B8502BA5666700AB9A22 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2EF3B8572BA5688600AB9A22 /* PhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				2EF3B8492BA5666600AB9A22 /* Grids_D4App.swift */,
 				2EF3B84B2BA5666600AB9A22 /* ContentView.swift */,
+				2EF3B8572BA5688600AB9A22 /* PhotoView.swift */,
 				2EF3B84D2BA5666700AB9A22 /* Assets.xcassets */,
 				2EF3B84F2BA5666700AB9A22 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2EF3B8582BA5688600AB9A22 /* PhotoView.swift in Sources */,
 				2EF3B84C2BA5666600AB9A22 /* ContentView.swift in Sources */,
 				2EF3B84A2BA5666600AB9A22 /* Grids_D4App.swift in Sources */,
 			);
